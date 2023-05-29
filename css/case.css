@@ -1,0 +1,215 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 1000px;
+}
+.TQ{
+    width: 100%;
+}
+.header{
+    width: 100%;
+    background-color: rgb(250, 242, 242);
+    height: 1700px;
+}
+.h1{
+    width: 1900px;
+    height: 900px;
+    margin: 0px auto;
+    background-image: url(/demo4/images/bg-top.jpg);
+    
+   }
+.hang1{
+    display: flex;
+}
+.h2{
+    color: white;
+    
+    width: 600px;
+    height: 65px;
+    margin-left: 350px;
+}
+.h2 ul{
+    display: flex;
+    flex-direction: row;
+}
+.h2 ul li{
+   padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-top: 25px;
+   
+}
+.h2 ul li a{
+     border-right: 2px solid rgba(255, 255, 255, 0.534);
+    text-decoration: none;
+    padding-right: 20px;
+    color: rgba(255, 255, 255, 0.774) ;
+}
+.h3{
+    color: white;
+    
+    width: 600px;
+    height: 65px;
+    margin-left: 105px;
+    
+}
+.h3 ul{
+    display: flex;
+    flex-direction: row;
+}
+.h3 ul li{
+   padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-top: 25px;
+   
+}
+.h3 ul li a{
+     border-right: 2px solid rgba(255, 255, 255, 0.534);
+    text-decoration: none;
+    padding-right: 20px;
+    color: rgba(255, 255, 255, 0.774) ;
+}
+.anh1{
+   
+    margin: 0px auto;
+    width: 1005px;
+    height: 1100px;
+
+}
+.h4{
+    background-color: rgb(19, 23, 72);
+    margin: 0px auto;
+    width: 1005px;
+    height: 260px;
+    margin-top: 450px;
+    display: flex;
+    
+}
+.cot{
+    position: absolute;
+    display: flex;
+}
+ 
+.cot1{
+    z-index: 3;
+}
+.cot2{
+    z-index: 2;
+    margin-left: -30px;
+}
+.cot3{
+    margin-left: 10px;
+}
+.cot4{
+    margin-left: 10px;
+}
+.h5{
+    display: flex;
+}
+.khung{
+    border: 5px solid rgb(7, 25, 76);
+    height: 700px;
+}
+.k1{
+    background-image: url(/demo4/images/news-header-bg.png);
+    width: 100%;
+    height: 60px;
+}
+.k1 ul{
+    display: flex;
+    flex-direction: row;
+}
+.k1 ul li{
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    margin-top: 25px;
+    padding-left: 10px;
+}
+.k1 ul li a{
+   text-decoration: none;
+   padding-right: 20px;
+}
+.k2 img{
+    border: 5px solid rgb(185, 167, 88);
+
+}
+.k2{
+    padding-left: 15px;
+    margin-top: 15px;
+    display: flex;
+}
+.vb1{
+    padding-left: 20px;
+}
+.k3 img{
+    border: 5px solid rgb(185, 167, 88);
+
+}
+.k3{
+    padding-left: 15px;
+    margin-top: 15px;
+    display: flex;
+}
+.vb2{
+    padding-left: 20px;
+}
+.k4 img{
+    border: 5px solid rgb(185, 167, 88);
+    width: 145px;
+}
+.k4{
+    padding-left: 15px;
+    margin-top: 15px;
+    display: flex;
+   
+}
+.vb3{
+    padding-left: 20px;
+}
+.k5{
+    display: flex;
+    padding-left: 450px;
+    margin-top: 70px;
+}
+.k5 button{
+    margin-left: 20px;
+}
+.header2{
+    width: 100%;
+    height: 240px;
+    background-color: rgb(250, 242, 242);
+}
+.h6{
+    width: 1900px;
+    height: 240px;
+    margin: 0px auto;
+     background-image: url(/demo4/images/bg-bottom.jpg);
+}
+.h7{
+    margin: 0px auto;
+    width: 1100px;
+    height: 200px;
+    display: flex;
+}
+ .logo img{
+    margin-top: 110px;
+    padding-left: 50px;
+}
+.vb4{
+    margin-top: 110px;
+    margin-left: 110px;
+    text-align: center;
+   
+}
